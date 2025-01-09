@@ -155,11 +155,6 @@ INSERT INTO cv_skills (skill_id, cv_id, knowledge_rate) VALUES (6, 1, 10);
 INSERT INTO cv_skills (skill_id, cv_id, knowledge_rate) VALUES (1, 3, 10);
 ```
 
-### Connect CV with skills
-
-```SQL
-
-```
 
 ### Testing
 
